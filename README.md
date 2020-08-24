@@ -40,4 +40,4 @@ Para delimitar el demo, definiremos el alcance y los requesitos técnicas del de
   * Cuando se agrega una nueva clase en la carpeta "src/" es necesario ejecutar el comando `bin/composer dump -o`. De esta forma se auto cargan las clases
 
 
-:gift: Aporte [David Quinones]( https://github.com/dqblanco).
+:gift: [David Quinones]( https://github.com/dqblanco).
